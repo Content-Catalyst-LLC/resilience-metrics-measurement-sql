@@ -7,3 +7,4 @@ Advanced SQL workflow for resilience metrics and measurement.
 
 ## Notes
 Designed as a reproducible reference implementation for the article on resilience metrics and measurement.
+# resilience-metrics-measurement-sql
